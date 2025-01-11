@@ -2,6 +2,7 @@
 
 ## Features:
 * Always show alternative menu
+* Fix alternative menu music when the holiday event is active
 * Custom alternative menu probability
 * Custom glitch effect probability
 
@@ -10,7 +11,6 @@
 2. Extract all BepInEx files to the MiSide root folder (`steamapps\common\MiSide`)
 3. Go to `MiSide\BepInEx` and create a `plugins` folder if it doesn't already exist
 4. Drag the `AlternativeMenuTweaks.dll` file downloaded from the releases into `MiSide\BepInEx\plugins`
-
 
 ## Configuration:
 All configuration is located in `MiSide\BepInEx\config\AlternativeMenuTweaks.cfg` file.
